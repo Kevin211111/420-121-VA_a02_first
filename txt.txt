@@ -1,6 +1,3 @@
 hi my name is kevin
 wonderful stuff coming today
-<<<<<<< HEAD
-=======
-
->>>>>>> a36a6967764ed999fa99253302ba2cc1a78eb80b
+hello i'm 19 years old
